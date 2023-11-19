@@ -1,0 +1,20 @@
+.ImageIntro {
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(230, 230, 230, 1) 100%
+  );
+}
+.imagesOnIntro {
+  margin-top: 50px;
+  width: 400px;
+  height: 300px;
+  border-bottom-left-radius: 5%;
+  border-top-right-radius: 5%;
+  filter: brightness(0.9);
+}
+
+.textIntro {
+  padding-top: 50px;
+  font-size: 200%;
+}
