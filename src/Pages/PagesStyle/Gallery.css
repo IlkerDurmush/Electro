@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    padding-block: 2rem;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.col{
+    padding: 0;
+}

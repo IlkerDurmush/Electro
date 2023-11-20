@@ -1,5 +1,5 @@
 import "bootstrap/dist/css/bootstrap.css";
-import "./ImageIntro.css";
+import "./ComponentStyles/ImageIntro.css";
 import img4 from "../Images/img4.jpg";
 import img5 from "../Images/img5.jpg";
 import img6 from "../Images/img6.jpg";
