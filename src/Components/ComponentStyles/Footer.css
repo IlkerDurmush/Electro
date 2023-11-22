@@ -1,0 +1,9 @@
+footer{
+    background-color: rgb(64, 64, 64);
+    padding-block: 3vh;
+}
+
+.reservedRights{
+    text-align: center;
+    color: aliceblue;
+}
